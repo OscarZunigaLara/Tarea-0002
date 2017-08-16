@@ -5,3 +5,4 @@
 
 # A partir de aquí escribe tu programa
 
+print("velocidad 10 km/h")
