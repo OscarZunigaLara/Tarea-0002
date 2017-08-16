@@ -6,3 +6,5 @@
 # A partir de aquí escribe tu programa
 
 print("Roberto mtz")
+
+print("Me gusta el TEC")
