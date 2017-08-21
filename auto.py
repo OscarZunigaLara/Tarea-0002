@@ -7,9 +7,9 @@
 velocidad = input("¿A que velociad se mueve su vehiculo?")
 velocidad = int(velocidad)
 
-    distancia1 = (velocidad * 6)
-    distancia2 = (velocidad * 10)
-    tiempo = (500 / velocidad)
+distancia1 = (velocidad * 6)
+distancia2 = (velocidad * 10)
+tiempo = (500 / velocidad)
 
 print("Distancia recorrida en 6Hrs: ", distancia1)
 print("Distancia recorrida en 10Hrs: ", distancia2)

@@ -8,10 +8,10 @@
 
 subtotal = int(input("¿Cuál es el costo de su comida?"))
 
-    iva = subtotal*.16
-    propina = subtotal*.12
+iva = subtotal*.16
+propina = subtotal*.12
 
-        print("Subtotal: ", subtotal)
-        print("Propina: ", propina)
-        print("IVA: ",iva)
-        print("Total a pagar: ", iva + propina + subtotal)
+print("Subtotal: ", subtotal)
+print("Propina: ", propina)
+print("IVA: ",iva)
+print("Total a pagar: ", iva + propina + subtotal)

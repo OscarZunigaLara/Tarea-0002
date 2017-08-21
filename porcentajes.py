@@ -11,6 +11,6 @@ mujeres = int(input("¿Cuántas mujeres hay?"))
 
 total = hombres + mujeres
 
-    print("Total: ",total)
-    print("Porcentaje en Hombres: ", hombres/total*100,"%")
-    print("Porcentaje en Mujeres: ", mujeres/total*100,"%")
+print("Total: ",total)
+print("Porcentaje en Hombres: ", hombres/total*100,"%")
+print("Porcentaje en Mujeres: ", mujeres/total*100,"%")
